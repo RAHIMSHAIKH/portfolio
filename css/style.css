@@ -1,12 +1,12 @@
 
  .navbar {    
-   background: black;  
+   background: darkgreen;  
    text-transform: uppercase;
    font-weight: 700;   
    border: none;    
  }
  .navbar .navbar-brand {
-   color: white;    
+   color:white;    
  }
  .navbar .navbar-brand:hover{
    color: white;
@@ -25,8 +25,8 @@
  }   
 
  header {
-   background: gray;
-   color: white;
+   background: lightblue;
+   color: darkgreen;
  }   
  header img {    
    display: block;
